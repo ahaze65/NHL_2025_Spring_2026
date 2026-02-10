@@ -1,0 +1,825 @@
+teamId,season,teamName,teamAbbreviation,conferenceAbbreviation,divisionName
+14,2026,New Jersey Devils,NJD,E,Metropolitan
+74,2026,New York Islanders,NYI,E,Metropolitan
+134,2026,New York Rangers,NYR,E,Metropolitan
+194,2026,Philadelphia Flyers,PHI,E,Metropolitan
+254,2026,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2026,Boston Bruins,BOS,E,Atlantic
+374,2026,Buffalo Sabres,BUF,E,Atlantic
+434,2026,Montréal Canadiens,MTL,E,Atlantic
+494,2026,Ottawa Senators,OTT,E,Atlantic
+554,2026,Toronto Maple Leafs,TOR,E,Atlantic
+674,2026,Carolina Hurricanes,CAR,E,Metropolitan
+734,2026,Florida Panthers,FLA,E,Atlantic
+794,2026,Tampa Bay Lightning,TBL,E,Atlantic
+854,2026,Washington Capitals,WSH,E,Metropolitan
+914,2026,Chicago Blackhawks,CHI,W,Central
+974,2026,Detroit Red Wings,DET,E,Atlantic
+1034,2026,Nashville Predators,NSH,W,Central
+1094,2026,St. Louis Blues,STL,W,Central
+1154,2026,Calgary Flames,CGY,W,Pacific
+1214,2026,Colorado Avalanche,COL,W,Central
+1274,2026,Edmonton Oilers,EDM,W,Pacific
+1334,2026,Vancouver Canucks,VAN,W,Pacific
+1394,2026,Anaheim Ducks,ANA,W,Pacific
+1454,2026,Dallas Stars,DAL,W,Central
+1514,2026,Los Angeles Kings,LAK,W,Pacific
+1634,2026,San Jose Sharks,SJS,W,Pacific
+1694,2026,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2026,Minnesota Wild,MIN,W,Central
+3074,2026,Winnipeg Jets,WPG,W,Central
+3194,2026,Vegas Golden Knights,VGK,W,Pacific
+49974,2026,Seattle Kraken,SEA,W,Pacific
+79197,2026,Utah Mammoth,UTA,W,Central
+14,2025,New Jersey Devils,NJD,E,Metropolitan
+74,2025,New York Islanders,NYI,E,Metropolitan
+134,2025,New York Rangers,NYR,E,Metropolitan
+194,2025,Philadelphia Flyers,PHI,E,Metropolitan
+254,2025,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2025,Boston Bruins,BOS,E,Atlantic
+374,2025,Buffalo Sabres,BUF,E,Atlantic
+434,2025,Montréal Canadiens,MTL,E,Atlantic
+494,2025,Ottawa Senators,OTT,E,Atlantic
+554,2025,Toronto Maple Leafs,TOR,E,Atlantic
+674,2025,Carolina Hurricanes,CAR,E,Metropolitan
+734,2025,Florida Panthers,FLA,E,Atlantic
+794,2025,Tampa Bay Lightning,TBL,E,Atlantic
+854,2025,Washington Capitals,WSH,E,Metropolitan
+914,2025,Chicago Blackhawks,CHI,W,Central
+974,2025,Detroit Red Wings,DET,E,Atlantic
+1034,2025,Nashville Predators,NSH,W,Central
+1094,2025,St. Louis Blues,STL,W,Central
+1154,2025,Calgary Flames,CGY,W,Pacific
+1214,2025,Colorado Avalanche,COL,W,Central
+1274,2025,Edmonton Oilers,EDM,W,Pacific
+1334,2025,Vancouver Canucks,VAN,W,Pacific
+1394,2025,Anaheim Ducks,ANA,W,Pacific
+1454,2025,Dallas Stars,DAL,W,Central
+1514,2025,Los Angeles Kings,LAK,W,Pacific
+1634,2025,San Jose Sharks,SJS,W,Pacific
+1694,2025,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2025,Minnesota Wild,MIN,W,Central
+3074,2025,Winnipeg Jets,WPG,W,Central
+3194,2025,Vegas Golden Knights,VGK,W,Pacific
+49974,2025,Seattle Kraken,SEA,W,Pacific
+79197,2025,Utah Mammoth,UTA,W,Central
+14,2024,New Jersey Devils,NJD,E,Metropolitan
+74,2024,New York Islanders,NYI,E,Metropolitan
+134,2024,New York Rangers,NYR,E,Metropolitan
+194,2024,Philadelphia Flyers,PHI,E,Metropolitan
+254,2024,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2024,Boston Bruins,BOS,E,Atlantic
+374,2024,Buffalo Sabres,BUF,E,Atlantic
+434,2024,Montréal Canadiens,MTL,E,Atlantic
+494,2024,Ottawa Senators,OTT,E,Atlantic
+554,2024,Toronto Maple Leafs,TOR,E,Atlantic
+674,2024,Carolina Hurricanes,CAR,E,Metropolitan
+734,2024,Florida Panthers,FLA,E,Atlantic
+794,2024,Tampa Bay Lightning,TBL,E,Atlantic
+854,2024,Washington Capitals,WSH,E,Metropolitan
+914,2024,Chicago Blackhawks,CHI,W,Central
+974,2024,Detroit Red Wings,DET,E,Atlantic
+1034,2024,Nashville Predators,NSH,W,Central
+1094,2024,St. Louis Blues,STL,W,Central
+1154,2024,Calgary Flames,CGY,W,Pacific
+1214,2024,Colorado Avalanche,COL,W,Central
+1274,2024,Edmonton Oilers,EDM,W,Pacific
+1334,2024,Vancouver Canucks,VAN,W,Pacific
+1394,2024,Anaheim Ducks,ANA,W,Pacific
+1454,2024,Dallas Stars,DAL,W,Central
+1514,2024,Los Angeles Kings,LAK,W,Pacific
+1574,2024,Arizona Coyotes,ARI,W,Central
+1634,2024,San Jose Sharks,SJS,W,Pacific
+1694,2024,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2024,Minnesota Wild,MIN,W,Central
+3074,2024,Winnipeg Jets,WPG,W,Central
+3194,2024,Vegas Golden Knights,VGK,W,Pacific
+49974,2024,Seattle Kraken,SEA,W,Pacific
+14,2023,New Jersey Devils,NJD,E,Metropolitan
+74,2023,New York Islanders,NYI,E,Metropolitan
+134,2023,New York Rangers,NYR,E,Metropolitan
+194,2023,Philadelphia Flyers,PHI,E,Metropolitan
+254,2023,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2023,Boston Bruins,BOS,E,Atlantic
+374,2023,Buffalo Sabres,BUF,E,Atlantic
+434,2023,Montréal Canadiens,MTL,E,Atlantic
+494,2023,Ottawa Senators,OTT,E,Atlantic
+554,2023,Toronto Maple Leafs,TOR,E,Atlantic
+674,2023,Carolina Hurricanes,CAR,E,Metropolitan
+734,2023,Florida Panthers,FLA,E,Atlantic
+794,2023,Tampa Bay Lightning,TBL,E,Atlantic
+854,2023,Washington Capitals,WSH,E,Metropolitan
+914,2023,Chicago Blackhawks,CHI,W,Central
+974,2023,Detroit Red Wings,DET,E,Atlantic
+1034,2023,Nashville Predators,NSH,W,Central
+1094,2023,St. Louis Blues,STL,W,Central
+1154,2023,Calgary Flames,CGY,W,Pacific
+1214,2023,Colorado Avalanche,COL,W,Central
+1274,2023,Edmonton Oilers,EDM,W,Pacific
+1334,2023,Vancouver Canucks,VAN,W,Pacific
+1394,2023,Anaheim Ducks,ANA,W,Pacific
+1454,2023,Dallas Stars,DAL,W,Central
+1514,2023,Los Angeles Kings,LAK,W,Pacific
+1574,2023,Arizona Coyotes,ARI,W,Central
+1634,2023,San Jose Sharks,SJS,W,Pacific
+1694,2023,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2023,Minnesota Wild,MIN,W,Central
+3074,2023,Winnipeg Jets,WPG,W,Central
+3194,2023,Vegas Golden Knights,VGK,W,Pacific
+49974,2023,Seattle Kraken,SEA,W,Pacific
+14,2022,New Jersey Devils,NJD,E,Metropolitan
+74,2022,New York Islanders,NYI,E,Metropolitan
+134,2022,New York Rangers,NYR,E,Metropolitan
+194,2022,Philadelphia Flyers,PHI,E,Metropolitan
+254,2022,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2022,Boston Bruins,BOS,E,Atlantic
+374,2022,Buffalo Sabres,BUF,E,Atlantic
+434,2022,Montréal Canadiens,MTL,E,Atlantic
+494,2022,Ottawa Senators,OTT,E,Atlantic
+554,2022,Toronto Maple Leafs,TOR,E,Atlantic
+674,2022,Carolina Hurricanes,CAR,E,Metropolitan
+734,2022,Florida Panthers,FLA,E,Atlantic
+794,2022,Tampa Bay Lightning,TBL,E,Atlantic
+854,2022,Washington Capitals,WSH,E,Metropolitan
+914,2022,Chicago Blackhawks,CHI,W,Central
+974,2022,Detroit Red Wings,DET,E,Atlantic
+1034,2022,Nashville Predators,NSH,W,Central
+1094,2022,St. Louis Blues,STL,W,Central
+1154,2022,Calgary Flames,CGY,W,Pacific
+1214,2022,Colorado Avalanche,COL,W,Central
+1274,2022,Edmonton Oilers,EDM,W,Pacific
+1334,2022,Vancouver Canucks,VAN,W,Pacific
+1394,2022,Anaheim Ducks,ANA,W,Pacific
+1454,2022,Dallas Stars,DAL,W,Central
+1514,2022,Los Angeles Kings,LAK,W,Pacific
+1574,2022,Arizona Coyotes,ARI,W,Central
+1634,2022,San Jose Sharks,SJS,W,Pacific
+1694,2022,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2022,Minnesota Wild,MIN,W,Central
+3074,2022,Winnipeg Jets,WPG,W,Central
+3194,2022,Vegas Golden Knights,VGK,W,Pacific
+49974,2022,Seattle Kraken,SEA,W,Pacific
+14,2021,New Jersey Devils,NJD,E,East
+74,2021,New York Islanders,NYI,E,East
+134,2021,New York Rangers,NYR,E,East
+194,2021,Philadelphia Flyers,PHI,E,East
+254,2021,Pittsburgh Penguins,PIT,E,East
+314,2021,Boston Bruins,BOS,E,East
+374,2021,Buffalo Sabres,BUF,E,East
+434,2021,Montréal Canadiens,MTL,E,North
+494,2021,Ottawa Senators,OTT,E,North
+554,2021,Toronto Maple Leafs,TOR,E,North
+674,2021,Carolina Hurricanes,CAR,E,Central
+734,2021,Florida Panthers,FLA,E,Central
+794,2021,Tampa Bay Lightning,TBL,E,Central
+854,2021,Washington Capitals,WSH,E,East
+914,2021,Chicago Blackhawks,CHI,W,Central
+974,2021,Detroit Red Wings,DET,E,Central
+1034,2021,Nashville Predators,NSH,W,Central
+1094,2021,St. Louis Blues,STL,W,West
+1154,2021,Calgary Flames,CGY,W,North
+1214,2021,Colorado Avalanche,COL,W,West
+1274,2021,Edmonton Oilers,EDM,W,North
+1334,2021,Vancouver Canucks,VAN,W,North
+1394,2021,Anaheim Ducks,ANA,W,West
+1454,2021,Dallas Stars,DAL,W,Central
+1514,2021,Los Angeles Kings,LAK,W,West
+1574,2021,Arizona Coyotes,ARI,W,West
+1634,2021,San Jose Sharks,SJS,W,West
+1694,2021,Columbus Blue Jackets,CBJ,E,Central
+1754,2021,Minnesota Wild,MIN,W,West
+3074,2021,Winnipeg Jets,WPG,W,North
+3194,2021,Vegas Golden Knights,VGK,W,West
+49974,2021,Seattle Kraken,SEA,W,West
+14,2020,New Jersey Devils,NJD,E,Metropolitan
+74,2020,New York Islanders,NYI,E,Metropolitan
+134,2020,New York Rangers,NYR,E,Metropolitan
+194,2020,Philadelphia Flyers,PHI,E,Metropolitan
+254,2020,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2020,Boston Bruins,BOS,E,Atlantic
+374,2020,Buffalo Sabres,BUF,E,Atlantic
+434,2020,Montréal Canadiens,MTL,E,Atlantic
+494,2020,Ottawa Senators,OTT,E,Atlantic
+554,2020,Toronto Maple Leafs,TOR,E,Atlantic
+674,2020,Carolina Hurricanes,CAR,E,Metropolitan
+734,2020,Florida Panthers,FLA,E,Atlantic
+794,2020,Tampa Bay Lightning,TBL,E,Atlantic
+854,2020,Washington Capitals,WSH,E,Metropolitan
+914,2020,Chicago Blackhawks,CHI,W,Central
+974,2020,Detroit Red Wings,DET,E,Atlantic
+1034,2020,Nashville Predators,NSH,W,Central
+1094,2020,St. Louis Blues,STL,W,Central
+1154,2020,Calgary Flames,CGY,W,Pacific
+1214,2020,Colorado Avalanche,COL,W,Central
+1274,2020,Edmonton Oilers,EDM,W,Pacific
+1334,2020,Vancouver Canucks,VAN,W,Pacific
+1394,2020,Anaheim Ducks,ANA,W,Pacific
+1454,2020,Dallas Stars,DAL,W,Central
+1514,2020,Los Angeles Kings,LAK,W,Pacific
+1574,2020,Arizona Coyotes,ARI,W,Pacific
+1634,2020,San Jose Sharks,SJS,W,Pacific
+1694,2020,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2020,Minnesota Wild,MIN,W,Central
+3074,2020,Winnipeg Jets,WPG,W,Central
+3194,2020,Vegas Golden Knights,VGK,W,Pacific
+14,2019,New Jersey Devils,NJD,E,Metropolitan
+74,2019,New York Islanders,NYI,E,Metropolitan
+134,2019,New York Rangers,NYR,E,Metropolitan
+194,2019,Philadelphia Flyers,PHI,E,Metropolitan
+254,2019,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2019,Boston Bruins,BOS,E,Atlantic
+374,2019,Buffalo Sabres,BUF,E,Atlantic
+434,2019,Montréal Canadiens,MTL,E,Atlantic
+494,2019,Ottawa Senators,OTT,E,Atlantic
+554,2019,Toronto Maple Leafs,TOR,E,Atlantic
+674,2019,Carolina Hurricanes,CAR,E,Metropolitan
+734,2019,Florida Panthers,FLA,E,Atlantic
+794,2019,Tampa Bay Lightning,TBL,E,Atlantic
+854,2019,Washington Capitals,WSH,E,Metropolitan
+914,2019,Chicago Blackhawks,CHI,W,Central
+974,2019,Detroit Red Wings,DET,E,Atlantic
+1034,2019,Nashville Predators,NSH,W,Central
+1094,2019,St. Louis Blues,STL,W,Central
+1154,2019,Calgary Flames,CGY,W,Pacific
+1214,2019,Colorado Avalanche,COL,W,Central
+1274,2019,Edmonton Oilers,EDM,W,Pacific
+1334,2019,Vancouver Canucks,VAN,W,Pacific
+1394,2019,Anaheim Ducks,ANA,W,Pacific
+1454,2019,Dallas Stars,DAL,W,Central
+1514,2019,Los Angeles Kings,LAK,W,Pacific
+1574,2019,Arizona Coyotes,ARI,W,Pacific
+1634,2019,San Jose Sharks,SJS,W,Pacific
+1694,2019,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2019,Minnesota Wild,MIN,W,Central
+3074,2019,Winnipeg Jets,WPG,W,Central
+3194,2019,Vegas Golden Knights,VGK,W,Pacific
+14,2018,New Jersey Devils,NJD,E,Metropolitan
+74,2018,New York Islanders,NYI,E,Metropolitan
+134,2018,New York Rangers,NYR,E,Metropolitan
+194,2018,Philadelphia Flyers,PHI,E,Metropolitan
+254,2018,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2018,Boston Bruins,BOS,E,Atlantic
+374,2018,Buffalo Sabres,BUF,E,Atlantic
+434,2018,Montréal Canadiens,MTL,E,Atlantic
+494,2018,Ottawa Senators,OTT,E,Atlantic
+554,2018,Toronto Maple Leafs,TOR,E,Atlantic
+674,2018,Carolina Hurricanes,CAR,E,Metropolitan
+734,2018,Florida Panthers,FLA,E,Atlantic
+794,2018,Tampa Bay Lightning,TBL,E,Atlantic
+854,2018,Washington Capitals,WSH,E,Metropolitan
+914,2018,Chicago Blackhawks,CHI,W,Central
+974,2018,Detroit Red Wings,DET,E,Atlantic
+1034,2018,Nashville Predators,NSH,W,Central
+1094,2018,St. Louis Blues,STL,W,Central
+1154,2018,Calgary Flames,CGY,W,Pacific
+1214,2018,Colorado Avalanche,COL,W,Central
+1274,2018,Edmonton Oilers,EDM,W,Pacific
+1334,2018,Vancouver Canucks,VAN,W,Pacific
+1394,2018,Anaheim Ducks,ANA,W,Pacific
+1454,2018,Dallas Stars,DAL,W,Central
+1514,2018,Los Angeles Kings,LAK,W,Pacific
+1574,2018,Arizona Coyotes,ARI,W,Pacific
+1634,2018,San Jose Sharks,SJS,W,Pacific
+1694,2018,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2018,Minnesota Wild,MIN,W,Central
+3074,2018,Winnipeg Jets,WPG,W,Central
+3194,2018,Vegas Golden Knights,VGK,W,Pacific
+14,2017,New Jersey Devils,NJD,E,Metropolitan
+74,2017,New York Islanders,NYI,E,Metropolitan
+134,2017,New York Rangers,NYR,E,Metropolitan
+194,2017,Philadelphia Flyers,PHI,E,Metropolitan
+254,2017,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2017,Boston Bruins,BOS,E,Atlantic
+374,2017,Buffalo Sabres,BUF,E,Atlantic
+434,2017,Montréal Canadiens,MTL,E,Atlantic
+494,2017,Ottawa Senators,OTT,E,Atlantic
+554,2017,Toronto Maple Leafs,TOR,E,Atlantic
+674,2017,Carolina Hurricanes,CAR,E,Metropolitan
+734,2017,Florida Panthers,FLA,E,Atlantic
+794,2017,Tampa Bay Lightning,TBL,E,Atlantic
+854,2017,Washington Capitals,WSH,E,Metropolitan
+914,2017,Chicago Blackhawks,CHI,W,Central
+974,2017,Detroit Red Wings,DET,E,Atlantic
+1034,2017,Nashville Predators,NSH,W,Central
+1094,2017,St. Louis Blues,STL,W,Central
+1154,2017,Calgary Flames,CGY,W,Pacific
+1214,2017,Colorado Avalanche,COL,W,Central
+1274,2017,Edmonton Oilers,EDM,W,Pacific
+1334,2017,Vancouver Canucks,VAN,W,Pacific
+1394,2017,Anaheim Ducks,ANA,W,Pacific
+1454,2017,Dallas Stars,DAL,W,Central
+1514,2017,Los Angeles Kings,LAK,W,Pacific
+1574,2017,Arizona Coyotes,ARI,W,Pacific
+1634,2017,San Jose Sharks,SJS,W,Pacific
+1694,2017,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2017,Minnesota Wild,MIN,W,Central
+3074,2017,Winnipeg Jets,WPG,W,Central
+3194,2017,Vegas Golden Knights,VGK,W,Pacific
+14,2016,New Jersey Devils,NJD,E,Metropolitan
+74,2016,New York Islanders,NYI,E,Metropolitan
+134,2016,New York Rangers,NYR,E,Metropolitan
+194,2016,Philadelphia Flyers,PHI,E,Metropolitan
+254,2016,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2016,Boston Bruins,BOS,E,Atlantic
+374,2016,Buffalo Sabres,BUF,E,Atlantic
+434,2016,Montréal Canadiens,MTL,E,Atlantic
+494,2016,Ottawa Senators,OTT,E,Atlantic
+554,2016,Toronto Maple Leafs,TOR,E,Atlantic
+674,2016,Carolina Hurricanes,CAR,E,Metropolitan
+734,2016,Florida Panthers,FLA,E,Atlantic
+794,2016,Tampa Bay Lightning,TBL,E,Atlantic
+854,2016,Washington Capitals,WSH,E,Metropolitan
+914,2016,Chicago Blackhawks,CHI,W,Central
+974,2016,Detroit Red Wings,DET,E,Atlantic
+1034,2016,Nashville Predators,NSH,W,Central
+1094,2016,St. Louis Blues,STL,W,Central
+1154,2016,Calgary Flames,CGY,W,Pacific
+1214,2016,Colorado Avalanche,COL,W,Central
+1274,2016,Edmonton Oilers,EDM,W,Pacific
+1334,2016,Vancouver Canucks,VAN,W,Pacific
+1394,2016,Anaheim Ducks,ANA,W,Pacific
+1454,2016,Dallas Stars,DAL,W,Central
+1514,2016,Los Angeles Kings,LAK,W,Pacific
+1574,2016,Arizona Coyotes,ARI,W,Pacific
+1634,2016,San Jose Sharks,SJS,W,Pacific
+1694,2016,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2016,Minnesota Wild,MIN,W,Central
+3074,2016,Winnipeg Jets,WPG,W,Central
+14,2015,New Jersey Devils,NJD,E,Metropolitan
+74,2015,New York Islanders,NYI,E,Metropolitan
+134,2015,New York Rangers,NYR,E,Metropolitan
+194,2015,Philadelphia Flyers,PHI,E,Metropolitan
+254,2015,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2015,Boston Bruins,BOS,E,Atlantic
+374,2015,Buffalo Sabres,BUF,E,Atlantic
+434,2015,Montréal Canadiens,MTL,E,Atlantic
+494,2015,Ottawa Senators,OTT,E,Atlantic
+554,2015,Toronto Maple Leafs,TOR,E,Atlantic
+674,2015,Carolina Hurricanes,CAR,E,Metropolitan
+734,2015,Florida Panthers,FLA,E,Atlantic
+794,2015,Tampa Bay Lightning,TBL,E,Atlantic
+854,2015,Washington Capitals,WSH,E,Metropolitan
+914,2015,Chicago Blackhawks,CHI,W,Central
+974,2015,Detroit Red Wings,DET,E,Atlantic
+1034,2015,Nashville Predators,NSH,W,Central
+1094,2015,St. Louis Blues,STL,W,Central
+1154,2015,Calgary Flames,CGY,W,Pacific
+1214,2015,Colorado Avalanche,COL,W,Central
+1274,2015,Edmonton Oilers,EDM,W,Pacific
+1334,2015,Vancouver Canucks,VAN,W,Pacific
+1394,2015,Anaheim Ducks,ANA,W,Pacific
+1454,2015,Dallas Stars,DAL,W,Central
+1514,2015,Los Angeles Kings,LAK,W,Pacific
+1574,2015,Arizona Coyotes,ARI,W,Pacific
+1634,2015,San Jose Sharks,SJS,W,Pacific
+1694,2015,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2015,Minnesota Wild,MIN,W,Central
+3074,2015,Winnipeg Jets,WPG,W,Central
+14,2014,New Jersey Devils,NJD,E,Metropolitan
+74,2014,New York Islanders,NYI,E,Metropolitan
+134,2014,New York Rangers,NYR,E,Metropolitan
+194,2014,Philadelphia Flyers,PHI,E,Metropolitan
+254,2014,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2014,Boston Bruins,BOS,E,Atlantic
+374,2014,Buffalo Sabres,BUF,E,Atlantic
+434,2014,Montréal Canadiens,MTL,E,Atlantic
+494,2014,Ottawa Senators,OTT,E,Atlantic
+554,2014,Toronto Maple Leafs,TOR,E,Atlantic
+674,2014,Carolina Hurricanes,CAR,E,Metropolitan
+734,2014,Florida Panthers,FLA,E,Atlantic
+794,2014,Tampa Bay Lightning,TBL,E,Atlantic
+854,2014,Washington Capitals,WSH,E,Metropolitan
+914,2014,Chicago Blackhawks,CHI,W,Central
+974,2014,Detroit Red Wings,DET,E,Atlantic
+1034,2014,Nashville Predators,NSH,W,Central
+1094,2014,St. Louis Blues,STL,W,Central
+1154,2014,Calgary Flames,CGY,W,Pacific
+1214,2014,Colorado Avalanche,COL,W,Central
+1274,2014,Edmonton Oilers,EDM,W,Pacific
+1334,2014,Vancouver Canucks,VAN,W,Pacific
+1394,2014,Anaheim Ducks,ANA,W,Pacific
+1454,2014,Dallas Stars,DAL,W,Central
+1514,2014,Los Angeles Kings,LAK,W,Pacific
+1574,2014,Phoenix Coyotes,ARI,W,Pacific
+1634,2014,San Jose Sharks,SJS,W,Pacific
+1694,2014,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2014,Minnesota Wild,MIN,W,Central
+3074,2014,Winnipeg Jets,WPG,W,Central
+14,2013,New Jersey Devils,NJD,E,Atlantic
+74,2013,New York Islanders,NYI,E,Atlantic
+134,2013,New York Rangers,NYR,E,Atlantic
+194,2013,Philadelphia Flyers,PHI,E,Atlantic
+254,2013,Pittsburgh Penguins,PIT,E,Atlantic
+314,2013,Boston Bruins,BOS,E,Northeast
+374,2013,Buffalo Sabres,BUF,E,Northeast
+434,2013,Montréal Canadiens,MTL,E,Northeast
+494,2013,Ottawa Senators,OTT,E,Northeast
+554,2013,Toronto Maple Leafs,TOR,E,Northeast
+674,2013,Carolina Hurricanes,CAR,E,Southeast
+734,2013,Florida Panthers,FLA,E,Southeast
+794,2013,Tampa Bay Lightning,TBL,E,Southeast
+854,2013,Washington Capitals,WSH,E,Southeast
+914,2013,Chicago Blackhawks,CHI,W,Central
+974,2013,Detroit Red Wings,DET,W,Central
+1034,2013,Nashville Predators,NSH,W,Central
+1094,2013,St. Louis Blues,STL,W,Central
+1154,2013,Calgary Flames,CGY,W,Northwest
+1214,2013,Colorado Avalanche,COL,W,Northwest
+1274,2013,Edmonton Oilers,EDM,W,Northwest
+1334,2013,Vancouver Canucks,VAN,W,Northwest
+1394,2013,Anaheim Ducks,ANA,W,Pacific
+1454,2013,Dallas Stars,DAL,W,Pacific
+1514,2013,Los Angeles Kings,LAK,W,Pacific
+1574,2013,Phoenix Coyotes,ARI,W,Pacific
+1634,2013,San Jose Sharks,SJS,W,Pacific
+1694,2013,Columbus Blue Jackets,CBJ,W,Central
+1754,2013,Minnesota Wild,MIN,W,Northwest
+3074,2013,Winnipeg Jets,WPG,E,Southeast
+14,2012,New Jersey Devils,NJD,E,Atlantic
+74,2012,New York Islanders,NYI,E,Atlantic
+134,2012,New York Rangers,NYR,E,Atlantic
+194,2012,Philadelphia Flyers,PHI,E,Atlantic
+254,2012,Pittsburgh Penguins,PIT,E,Atlantic
+314,2012,Boston Bruins,BOS,E,Northeast
+374,2012,Buffalo Sabres,BUF,E,Northeast
+434,2012,Montréal Canadiens,MTL,E,Northeast
+494,2012,Ottawa Senators,OTT,E,Northeast
+554,2012,Toronto Maple Leafs,TOR,E,Northeast
+674,2012,Carolina Hurricanes,CAR,E,Southeast
+734,2012,Florida Panthers,FLA,E,Southeast
+794,2012,Tampa Bay Lightning,TBL,E,Southeast
+854,2012,Washington Capitals,WSH,E,Southeast
+914,2012,Chicago Blackhawks,CHI,W,Central
+974,2012,Detroit Red Wings,DET,W,Central
+1034,2012,Nashville Predators,NSH,W,Central
+1094,2012,St. Louis Blues,STL,W,Central
+1154,2012,Calgary Flames,CGY,W,Northwest
+1214,2012,Colorado Avalanche,COL,W,Northwest
+1274,2012,Edmonton Oilers,EDM,W,Northwest
+1334,2012,Vancouver Canucks,VAN,W,Northwest
+1394,2012,Anaheim Ducks,ANA,W,Pacific
+1454,2012,Dallas Stars,DAL,W,Pacific
+1514,2012,Los Angeles Kings,LAK,W,Pacific
+1574,2012,Phoenix Coyotes,ARI,W,Pacific
+1634,2012,San Jose Sharks,SJS,W,Pacific
+1694,2012,Columbus Blue Jackets,CBJ,W,Central
+1754,2012,Minnesota Wild,MIN,W,Northwest
+3074,2012,Winnipeg Jets,WPG,E,Southeast
+14,2011,New Jersey Devils,NJD,E,Atlantic
+74,2011,New York Islanders,NYI,E,Atlantic
+134,2011,New York Rangers,NYR,E,Atlantic
+194,2011,Philadelphia Flyers,PHI,E,Atlantic
+254,2011,Pittsburgh Penguins,PIT,E,Atlantic
+314,2011,Boston Bruins,BOS,E,Northeast
+374,2011,Buffalo Sabres,BUF,E,Northeast
+434,2011,Montréal Canadiens,MTL,E,Northeast
+494,2011,Ottawa Senators,OTT,E,Northeast
+554,2011,Toronto Maple Leafs,TOR,E,Northeast
+614,2011,Atlanta Thrashers,ATL,E,Southeast
+674,2011,Carolina Hurricanes,CAR,E,Southeast
+734,2011,Florida Panthers,FLA,E,Southeast
+794,2011,Tampa Bay Lightning,TBL,E,Southeast
+854,2011,Washington Capitals,WSH,E,Southeast
+914,2011,Chicago Blackhawks,CHI,W,Central
+974,2011,Detroit Red Wings,DET,W,Central
+1034,2011,Nashville Predators,NSH,W,Central
+1094,2011,St. Louis Blues,STL,W,Central
+1154,2011,Calgary Flames,CGY,W,Northwest
+1214,2011,Colorado Avalanche,COL,W,Northwest
+1274,2011,Edmonton Oilers,EDM,W,Northwest
+1334,2011,Vancouver Canucks,VAN,W,Northwest
+1394,2011,Anaheim Ducks,ANA,W,Pacific
+1454,2011,Dallas Stars,DAL,W,Pacific
+1514,2011,Los Angeles Kings,LAK,W,Pacific
+1574,2011,Phoenix Coyotes,ARI,W,Pacific
+1634,2011,San Jose Sharks,SJS,W,Pacific
+1694,2011,Columbus Blue Jackets,CBJ,W,Central
+1754,2011,Minnesota Wild,MIN,W,Northwest
+3074,2011,Winnipeg Jets,WPG,E,Southeast
+14,2010,New Jersey Devils,NJD,E,Atlantic
+74,2010,New York Islanders,NYI,E,Atlantic
+134,2010,New York Rangers,NYR,E,Atlantic
+194,2010,Philadelphia Flyers,PHI,E,Atlantic
+254,2010,Pittsburgh Penguins,PIT,E,Atlantic
+314,2010,Boston Bruins,BOS,E,Northeast
+374,2010,Buffalo Sabres,BUF,E,Northeast
+434,2010,Montréal Canadiens,MTL,E,Northeast
+494,2010,Ottawa Senators,OTT,E,Northeast
+554,2010,Toronto Maple Leafs,TOR,E,Northeast
+614,2010,Atlanta Thrashers,ATL,E,Southeast
+674,2010,Carolina Hurricanes,CAR,E,Southeast
+734,2010,Florida Panthers,FLA,E,Southeast
+794,2010,Tampa Bay Lightning,TBL,E,Southeast
+854,2010,Washington Capitals,WSH,E,Southeast
+914,2010,Chicago Blackhawks,CHI,W,Central
+974,2010,Detroit Red Wings,DET,W,Central
+1034,2010,Nashville Predators,NSH,W,Central
+1094,2010,St. Louis Blues,STL,W,Central
+1154,2010,Calgary Flames,CGY,W,Northwest
+1214,2010,Colorado Avalanche,COL,W,Northwest
+1274,2010,Edmonton Oilers,EDM,W,Northwest
+1334,2010,Vancouver Canucks,VAN,W,Northwest
+1394,2010,Anaheim Ducks,ANA,W,Pacific
+1454,2010,Dallas Stars,DAL,W,Pacific
+1514,2010,Los Angeles Kings,LAK,W,Pacific
+1574,2010,Phoenix Coyotes,ARI,W,Pacific
+1634,2010,San Jose Sharks,SJS,W,Pacific
+1694,2010,Columbus Blue Jackets,CBJ,W,Central
+1754,2010,Minnesota Wild,MIN,W,Northwest
+14,2009,New Jersey Devils,NJD,E,Atlantic
+74,2009,New York Islanders,NYI,E,Atlantic
+134,2009,New York Rangers,NYR,E,Atlantic
+194,2009,Philadelphia Flyers,PHI,E,Atlantic
+254,2009,Pittsburgh Penguins,PIT,E,Atlantic
+314,2009,Boston Bruins,BOS,E,Northeast
+374,2009,Buffalo Sabres,BUF,E,Northeast
+434,2009,Montréal Canadiens,MTL,E,Northeast
+494,2009,Ottawa Senators,OTT,E,Northeast
+554,2009,Toronto Maple Leafs,TOR,E,Northeast
+614,2009,Atlanta Thrashers,ATL,E,Southeast
+674,2009,Carolina Hurricanes,CAR,E,Southeast
+734,2009,Florida Panthers,FLA,E,Southeast
+794,2009,Tampa Bay Lightning,TBL,E,Southeast
+854,2009,Washington Capitals,WSH,E,Southeast
+914,2009,Chicago Blackhawks,CHI,W,Central
+974,2009,Detroit Red Wings,DET,W,Central
+1034,2009,Nashville Predators,NSH,W,Central
+1094,2009,St. Louis Blues,STL,W,Central
+1154,2009,Calgary Flames,CGY,W,Northwest
+1214,2009,Colorado Avalanche,COL,W,Northwest
+1274,2009,Edmonton Oilers,EDM,W,Northwest
+1334,2009,Vancouver Canucks,VAN,W,Northwest
+1394,2009,Anaheim Ducks,ANA,W,Pacific
+1454,2009,Dallas Stars,DAL,W,Pacific
+1514,2009,Los Angeles Kings,LAK,W,Pacific
+1574,2009,Phoenix Coyotes,ARI,W,Pacific
+1634,2009,San Jose Sharks,SJS,W,Pacific
+1694,2009,Columbus Blue Jackets,CBJ,W,Central
+1754,2009,Minnesota Wild,MIN,W,Northwest
+14,2008,New Jersey Devils,NJD,E,Atlantic
+74,2008,New York Islanders,NYI,E,Atlantic
+134,2008,New York Rangers,NYR,E,Atlantic
+194,2008,Philadelphia Flyers,PHI,E,Atlantic
+254,2008,Pittsburgh Penguins,PIT,E,Atlantic
+314,2008,Boston Bruins,BOS,E,Northeast
+374,2008,Buffalo Sabres,BUF,E,Northeast
+434,2008,Montréal Canadiens,MTL,E,Northeast
+494,2008,Ottawa Senators,OTT,E,Northeast
+554,2008,Toronto Maple Leafs,TOR,E,Northeast
+614,2008,Atlanta Thrashers,ATL,E,Southeast
+674,2008,Carolina Hurricanes,CAR,E,Southeast
+734,2008,Florida Panthers,FLA,E,Southeast
+794,2008,Tampa Bay Lightning,TBL,E,Southeast
+854,2008,Washington Capitals,WSH,E,Southeast
+914,2008,Chicago Blackhawks,CHI,W,Central
+974,2008,Detroit Red Wings,DET,W,Central
+1034,2008,Nashville Predators,NSH,W,Central
+1094,2008,St. Louis Blues,STL,W,Central
+1154,2008,Calgary Flames,CGY,W,Northwest
+1214,2008,Colorado Avalanche,COL,W,Northwest
+1274,2008,Edmonton Oilers,EDM,W,Northwest
+1334,2008,Vancouver Canucks,VAN,W,Northwest
+1394,2008,Anaheim Ducks,ANA,W,Pacific
+1454,2008,Dallas Stars,DAL,W,Pacific
+1514,2008,Los Angeles Kings,LAK,W,Pacific
+1574,2008,Phoenix Coyotes,ARI,W,Pacific
+1634,2008,San Jose Sharks,SJS,W,Pacific
+1694,2008,Columbus Blue Jackets,CBJ,W,Central
+1754,2008,Minnesota Wild,MIN,W,Northwest
+14,2007,New Jersey Devils,NJD,E,Atlantic
+74,2007,New York Islanders,NYI,E,Atlantic
+134,2007,New York Rangers,NYR,E,Atlantic
+194,2007,Philadelphia Flyers,PHI,E,Atlantic
+254,2007,Pittsburgh Penguins,PIT,E,Atlantic
+314,2007,Boston Bruins,BOS,E,Northeast
+374,2007,Buffalo Sabres,BUF,E,Northeast
+434,2007,Montréal Canadiens,MTL,E,Northeast
+494,2007,Ottawa Senators,OTT,E,Northeast
+554,2007,Toronto Maple Leafs,TOR,E,Northeast
+614,2007,Atlanta Thrashers,ATL,E,Southeast
+674,2007,Carolina Hurricanes,CAR,E,Southeast
+734,2007,Florida Panthers,FLA,E,Southeast
+794,2007,Tampa Bay Lightning,TBL,E,Southeast
+854,2007,Washington Capitals,WSH,E,Southeast
+914,2007,Chicago Blackhawks,CHI,W,Central
+974,2007,Detroit Red Wings,DET,W,Central
+1034,2007,Nashville Predators,NSH,W,Central
+1094,2007,St. Louis Blues,STL,W,Central
+1154,2007,Calgary Flames,CGY,W,Northwest
+1214,2007,Colorado Avalanche,COL,W,Northwest
+1274,2007,Edmonton Oilers,EDM,W,Northwest
+1334,2007,Vancouver Canucks,VAN,W,Northwest
+1394,2007,Anaheim Ducks,ANA,W,Pacific
+1454,2007,Dallas Stars,DAL,W,Pacific
+1514,2007,Los Angeles Kings,LAK,W,Pacific
+1574,2007,Phoenix Coyotes,ARI,W,Pacific
+1634,2007,San Jose Sharks,SJS,W,Pacific
+1694,2007,Columbus Blue Jackets,CBJ,W,Central
+1754,2007,Minnesota Wild,MIN,W,Northwest
+14,2006,New Jersey Devils,NJD,E,Atlantic
+74,2006,New York Islanders,NYI,E,Atlantic
+134,2006,New York Rangers,NYR,E,Atlantic
+194,2006,Philadelphia Flyers,PHI,E,Atlantic
+254,2006,Pittsburgh Penguins,PIT,E,Atlantic
+314,2006,Boston Bruins,BOS,E,Northeast
+374,2006,Buffalo Sabres,BUF,E,Northeast
+434,2006,Montréal Canadiens,MTL,E,Northeast
+494,2006,Ottawa Senators,OTT,E,Northeast
+554,2006,Toronto Maple Leafs,TOR,E,Northeast
+614,2006,Atlanta Thrashers,ATL,E,Southeast
+674,2006,Carolina Hurricanes,CAR,E,Southeast
+734,2006,Florida Panthers,FLA,E,Southeast
+794,2006,Tampa Bay Lightning,TBL,E,Southeast
+854,2006,Washington Capitals,WSH,E,Southeast
+914,2006,Chicago Blackhawks,CHI,W,Central
+974,2006,Detroit Red Wings,DET,W,Central
+1034,2006,Nashville Predators,NSH,W,Central
+1094,2006,St. Louis Blues,STL,W,Central
+1154,2006,Calgary Flames,CGY,W,Northwest
+1214,2006,Colorado Avalanche,COL,W,Northwest
+1274,2006,Edmonton Oilers,EDM,W,Northwest
+1334,2006,Vancouver Canucks,VAN,W,Northwest
+1394,2006,Anaheim Ducks,ANA,W,Pacific
+1454,2006,Dallas Stars,DAL,W,Pacific
+1514,2006,Los Angeles Kings,LAK,W,Pacific
+1574,2006,Phoenix Coyotes,ARI,W,Pacific
+1634,2006,San Jose Sharks,SJS,W,Pacific
+1694,2006,Columbus Blue Jackets,CBJ,W,Central
+1754,2006,Minnesota Wild,MIN,W,Northwest
+14,2005,New Jersey Devils,NJD,E,Metropolitan
+74,2005,New York Islanders,NYI,E,Metropolitan
+134,2005,New York Rangers,NYR,E,Metropolitan
+194,2005,Philadelphia Flyers,PHI,E,Metropolitan
+254,2005,Pittsburgh Penguins,PIT,E,Metropolitan
+314,2005,Boston Bruins,BOS,E,Atlantic
+374,2005,Buffalo Sabres,BUF,E,Atlantic
+434,2005,Montréal Canadiens,MTL,E,Atlantic
+494,2005,Ottawa Senators,OTT,E,Atlantic
+554,2005,Toronto Maple Leafs,TOR,E,Atlantic
+674,2005,Carolina Hurricanes,CAR,E,Metropolitan
+734,2005,Florida Panthers,FLA,E,Atlantic
+794,2005,Tampa Bay Lightning,TBL,E,Atlantic
+854,2005,Washington Capitals,WSH,E,Metropolitan
+914,2005,Chicago Blackhawks,CHI,W,Central
+974,2005,Detroit Red Wings,DET,E,Atlantic
+1034,2005,Nashville Predators,NSH,W,Central
+1094,2005,St. Louis Blues,STL,W,Central
+1154,2005,Calgary Flames,CGY,W,Pacific
+1214,2005,Colorado Avalanche,COL,W,Central
+1274,2005,Edmonton Oilers,EDM,W,Pacific
+1334,2005,Vancouver Canucks,VAN,W,Pacific
+1394,2005,Anaheim Ducks,ANA,W,Pacific
+1454,2005,Dallas Stars,DAL,W,Central
+1514,2005,Los Angeles Kings,LAK,W,Pacific
+1574,2005,Phoenix Coyotes,ARI,W,Pacific
+1634,2005,San Jose Sharks,SJS,W,Pacific
+1694,2005,Columbus Blue Jackets,CBJ,E,Metropolitan
+1754,2005,Minnesota Wild,MIN,W,Central
+14,2004,New Jersey Devils,NJD,E,Atlantic
+74,2004,New York Islanders,NYI,E,Atlantic
+134,2004,New York Rangers,NYR,E,Atlantic
+194,2004,Philadelphia Flyers,PHI,E,Atlantic
+254,2004,Pittsburgh Penguins,PIT,E,Atlantic
+314,2004,Boston Bruins,BOS,E,Northeast
+374,2004,Buffalo Sabres,BUF,E,Northeast
+434,2004,Montréal Canadiens,MTL,E,Northeast
+494,2004,Ottawa Senators,OTT,E,Northeast
+554,2004,Toronto Maple Leafs,TOR,E,Northeast
+614,2004,Atlanta Thrashers,ATL,E,Southeast
+674,2004,Carolina Hurricanes,CAR,E,Southeast
+734,2004,Florida Panthers,FLA,E,Southeast
+794,2004,Tampa Bay Lightning,TBL,E,Southeast
+854,2004,Washington Capitals,WSH,E,Southeast
+914,2004,Chicago Blackhawks,CHI,W,Central
+974,2004,Detroit Red Wings,DET,W,Central
+1034,2004,Nashville Predators,NSH,W,Central
+1094,2004,St. Louis Blues,STL,W,Central
+1154,2004,Calgary Flames,CGY,W,Northwest
+1214,2004,Colorado Avalanche,COL,W,Northwest
+1274,2004,Edmonton Oilers,EDM,W,Northwest
+1334,2004,Vancouver Canucks,VAN,W,Northwest
+1394,2004,Anaheim Ducks,ANA,W,Pacific
+1454,2004,Dallas Stars,DAL,W,Pacific
+1514,2004,Los Angeles Kings,LAK,W,Pacific
+1574,2004,Phoenix Coyotes,ARI,W,Pacific
+1634,2004,San Jose Sharks,SJS,W,Pacific
+1694,2004,Columbus Blue Jackets,CBJ,W,Central
+1754,2004,Minnesota Wild,MIN,W,Northwest
+14,2003,New Jersey Devils,NJD,E,Atlantic
+74,2003,New York Islanders,NYI,E,Atlantic
+134,2003,New York Rangers,NYR,E,Atlantic
+194,2003,Philadelphia Flyers,PHI,E,Atlantic
+254,2003,Pittsburgh Penguins,PIT,E,Atlantic
+314,2003,Boston Bruins,BOS,E,Northeast
+374,2003,Buffalo Sabres,BUF,E,Northeast
+434,2003,Montréal Canadiens,MTL,E,Northeast
+494,2003,Ottawa Senators,OTT,E,Northeast
+554,2003,Toronto Maple Leafs,TOR,E,Northeast
+614,2003,Atlanta Thrashers,ATL,E,Southeast
+674,2003,Carolina Hurricanes,CAR,E,Southeast
+734,2003,Florida Panthers,FLA,E,Southeast
+794,2003,Tampa Bay Lightning,TBL,E,Southeast
+854,2003,Washington Capitals,WSH,E,Southeast
+914,2003,Chicago Blackhawks,CHI,W,Central
+974,2003,Detroit Red Wings,DET,W,Central
+1034,2003,Nashville Predators,NSH,W,Central
+1094,2003,St. Louis Blues,STL,W,Central
+1154,2003,Calgary Flames,CGY,W,Northwest
+1214,2003,Colorado Avalanche,COL,W,Northwest
+1274,2003,Edmonton Oilers,EDM,W,Northwest
+1334,2003,Vancouver Canucks,VAN,W,Northwest
+1394,2003,Anaheim Ducks,ANA,W,Pacific
+1454,2003,Dallas Stars,DAL,W,Pacific
+1514,2003,Los Angeles Kings,LAK,W,Pacific
+1574,2003,Phoenix Coyotes,ARI,W,Pacific
+1634,2003,San Jose Sharks,SJS,W,Pacific
+1694,2003,Columbus Blue Jackets,CBJ,W,Central
+1754,2003,Minnesota Wild,MIN,W,Northwest
+14,2002,New Jersey Devils,NJD,E,Atlantic
+74,2002,New York Islanders,NYI,E,Atlantic
+134,2002,New York Rangers,NYR,E,Atlantic
+194,2002,Philadelphia Flyers,PHI,E,Atlantic
+254,2002,Pittsburgh Penguins,PIT,E,Atlantic
+314,2002,Boston Bruins,BOS,E,Northeast
+374,2002,Buffalo Sabres,BUF,E,Northeast
+434,2002,Montréal Canadiens,MTL,E,Northeast
+494,2002,Ottawa Senators,OTT,E,Northeast
+554,2002,Toronto Maple Leafs,TOR,E,Northeast
+614,2002,Atlanta Thrashers,ATL,E,Southeast
+674,2002,Carolina Hurricanes,CAR,E,Southeast
+734,2002,Florida Panthers,FLA,E,Southeast
+794,2002,Tampa Bay Lightning,TBL,E,Southeast
+854,2002,Washington Capitals,WSH,E,Southeast
+914,2002,Chicago Blackhawks,CHI,W,Central
+974,2002,Detroit Red Wings,DET,W,Central
+1034,2002,Nashville Predators,NSH,W,Central
+1094,2002,St. Louis Blues,STL,W,Central
+1154,2002,Calgary Flames,CGY,W,Northwest
+1214,2002,Colorado Avalanche,COL,W,Northwest
+1274,2002,Edmonton Oilers,EDM,W,Northwest
+1334,2002,Vancouver Canucks,VAN,W,Northwest
+1394,2002,Anaheim Ducks,ANA,W,Pacific
+1454,2002,Dallas Stars,DAL,W,Pacific
+1514,2002,Los Angeles Kings,LAK,W,Pacific
+1574,2002,Phoenix Coyotes,ARI,W,Pacific
+1634,2002,San Jose Sharks,SJS,W,Pacific
+1694,2002,Columbus Blue Jackets,CBJ,W,Central
+1754,2002,Minnesota Wild,MIN,W,Northwest
+14,2001,New Jersey Devils,NJD,E,Atlantic
+74,2001,New York Islanders,NYI,E,Atlantic
+134,2001,New York Rangers,NYR,E,Atlantic
+194,2001,Philadelphia Flyers,PHI,E,Atlantic
+254,2001,Pittsburgh Penguins,PIT,E,Atlantic
+314,2001,Boston Bruins,BOS,E,Northeast
+374,2001,Buffalo Sabres,BUF,E,Northeast
+434,2001,Montréal Canadiens,MTL,E,Northeast
+494,2001,Ottawa Senators,OTT,E,Northeast
+554,2001,Toronto Maple Leafs,TOR,E,Northeast
+614,2001,Atlanta Thrashers,ATL,E,Southeast
+674,2001,Carolina Hurricanes,CAR,E,Southeast
+734,2001,Florida Panthers,FLA,E,Southeast
+794,2001,Tampa Bay Lightning,TBL,E,Southeast
+854,2001,Washington Capitals,WSH,E,Southeast
+914,2001,Chicago Blackhawks,CHI,W,Central
+974,2001,Detroit Red Wings,DET,W,Central
+1034,2001,Nashville Predators,NSH,W,Central
+1094,2001,St. Louis Blues,STL,W,Central
+1154,2001,Calgary Flames,CGY,W,Northwest
+1214,2001,Colorado Avalanche,COL,W,Northwest
+1274,2001,Edmonton Oilers,EDM,W,Northwest
+1334,2001,Vancouver Canucks,VAN,W,Northwest
+1394,2001,Anaheim Ducks,ANA,W,Pacific
+1454,2001,Dallas Stars,DAL,W,Pacific
+1514,2001,Los Angeles Kings,LAK,W,Pacific
+1574,2001,Phoenix Coyotes,ARI,W,Pacific
+1634,2001,San Jose Sharks,SJS,W,Pacific
+1694,2001,Columbus Blue Jackets,CBJ,W,Central
+1754,2001,Minnesota Wild,MIN,W,Northwest
+14,2000,New Jersey Devils,NJD,E,Atlantic
+74,2000,New York Islanders,NYI,E,Atlantic
+134,2000,New York Rangers,NYR,E,Atlantic
+194,2000,Philadelphia Flyers,PHI,E,Atlantic
+254,2000,Pittsburgh Penguins,PIT,E,Atlantic
+314,2000,Boston Bruins,BOS,E,Northeast
+374,2000,Buffalo Sabres,BUF,E,Northeast
+434,2000,Montréal Canadiens,MTL,E,Northeast
+494,2000,Ottawa Senators,OTT,E,Northeast
+554,2000,Toronto Maple Leafs,TOR,E,Northeast
+614,2000,Atlanta Thrashers,ATL,E,Southeast
+674,2000,Carolina Hurricanes,CAR,E,Southeast
+734,2000,Florida Panthers,FLA,E,Southeast
+794,2000,Tampa Bay Lightning,TBL,E,Southeast
+854,2000,Washington Capitals,WSH,E,Southeast
+914,2000,Chicago Blackhawks,CHI,W,Central
+974,2000,Detroit Red Wings,DET,W,Central
+1034,2000,Nashville Predators,NSH,W,Central
+1094,2000,St. Louis Blues,STL,W,Central
+1154,2000,Calgary Flames,CGY,W,Northwest
+1214,2000,Colorado Avalanche,COL,W,Northwest
+1274,2000,Edmonton Oilers,EDM,W,Northwest
+1334,2000,Vancouver Canucks,VAN,W,Northwest
+1394,2000,Anaheim Ducks,ANA,W,Pacific
+1454,2000,Dallas Stars,DAL,W,Pacific
+1514,2000,Los Angeles Kings,LAK,W,Pacific
+1574,2000,Phoenix Coyotes,ARI,W,Pacific
+1634,2000,San Jose Sharks,SJS,W,Pacific
